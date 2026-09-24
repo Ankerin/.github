@@ -68,18 +68,6 @@ Because apparently writing the VM wasn't enough.
 `C++` `Compiler` `Language Design`
 
 </td>
-
-<td width="50%" valign="top">
-
-### ▱ [Vulkryn](https://github.com/Ankerin/Vulkryn)
-
-A **Vulkan** graphics engine I'm building for fun.
-
-Rendering experiments, GPU abuse and questionable architectural decisions included.
-
-`C++` `Vulkan` `Graphics`
-
-</td>
 </tr>
 </table>
 
