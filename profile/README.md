@@ -27,50 +27,6 @@ ankerin@github:~$ whoami
   currently   building things I probably shouldn't build from scratch
 ```
 
-## `~/projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ [Astrolune](https://github.com/Ankerin/astrolune)
-
-Blockchain network written in **Rust**.
-
-Custom consensus, P2P networking, execution layer and ecosystem services — built from scratch as an experiment in distributed systems.
-
-`Rust` `P2P` `Consensus` `VM`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◇ [Astrolune Legacy](https://github.com/Ankerin/astrolune-legacy-c)
-
-The original low-level implementation.
-
-Blockchain core primarily written in **C**, including networking, storage, consensus and ALVM.
-
-`C` `C++` `Networking` `ALVM`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### △ [Trocto](https://github.com/Ankerin/trocto)
-
-Compiler and tooling for smart contracts targeting **ALVM**.
-
-Because apparently writing the VM wasn't enough.
-
-`C++` `Compiler` `Language Design`
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <sub>
