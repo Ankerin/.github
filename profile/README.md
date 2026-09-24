@@ -80,6 +80,4 @@ I build things mostly because I want to understand how they work.
 
 <br><br>
 
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
-
 </div>
