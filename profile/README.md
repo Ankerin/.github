@@ -18,15 +18,6 @@
 
 <br>
 
-```text
-ankerin@github:~$ whoami
-
-  systems     distributed systems / networking / virtual machines
-  graphics    Vulkan / DirectX 12 / rendering
-  languages   Rust / C / C++ / Python
-  currently   building things I probably shouldn't build from scratch
-```
-
 <div align="center">
 
 <sub>
