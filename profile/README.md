@@ -21,7 +21,7 @@
 <div align="center">
 
 <sub>
-16 y.o. · Tambov, Russian Federation<br>
+16 y.o. · Russian Federation<br>
 I build things mostly because I want to understand how they work.
 </sub>
 
