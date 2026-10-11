@@ -4,10 +4,6 @@
 
 <br>
 
-<img src="https://github.com/Ankerin/.github/assets/github.png"/>
-
-<br><br>
-
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
